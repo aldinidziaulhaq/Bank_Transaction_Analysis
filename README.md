@@ -232,7 +232,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn yellowbrick joblib
 
 **Aldini Dziaul Haq**  
 🔗 [GitHub](https://github.com/aldinidziaulhaq)
-🔗 [Linkedln(https://www.linkedin.com/in/aldini-dziaul-haq-30030430b/)
+🔗 [Linkedln](https://www.linkedin.com/in/aldini-dziaul-haq-30030430b/)
 ---
 
 ## 📄 Lisensi
